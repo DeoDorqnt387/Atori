@@ -3,7 +3,7 @@
 ### TO-DO:
   - AI Text Generation 
     - Character ai(?)
-    - open ai
+    - Open ai
     - ~~Figgs Ai~~
     - ~~Dittin ai v2~~
     - Your own model (?)
@@ -12,7 +12,7 @@
     - Eleven labs text to speech integration
     - Microsoft azure text to speech integration
     - Google Text-to-Speech (Google Cloud TTS):
-    - Japanese voice
+    - Japanese voice(VoiceVox)
  - Stream
  - Settings
  - Vtube studio integration
