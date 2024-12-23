@@ -3,7 +3,7 @@
 ### TO-DO:
   - AI Text Generation 
     - Character ai(?)
-    - Chatgpt
+    - open ai
     - ~~Figgs Ai~~
     - ~~Dittin ai v2~~
     - Your own model (?)
