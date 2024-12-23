@@ -4,6 +4,7 @@
   - AI Text Generation 
     - Character ai(?)
     - Open ai
+    - Claude 3.5 Sonneto
     - ~~Figgs Ai~~
     - ~~Dittin ai v2~~
     - Your own model (?)
